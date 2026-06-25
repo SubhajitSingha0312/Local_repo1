@@ -1,0 +1,88 @@
+[33mcommit f3f9018cd2f2b5097f2f3f4dc21f6f8bd60ff893[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mfeature1[m[33m)[m
+Merge: 101823e cc94296
+Author: SubhajitSingha0312 <subhajitsingharajput06@gmail.com>
+Date:   Thu Jun 25 15:30:30 2026 +0530
+
+    add both feature
+
+[33mcommit 101823e2a5c445342a28e44fd22b7e1ca97c9598[m
+Author: SubhajitSingha0312 <subhajitsingharajput06@gmail.com>
+Date:   Thu Jun 25 15:23:20 2026 +0530
+
+    add singha
+
+[33mcommit cc94296a486d11fcadfe036b1e61ca9f19578cc8[m
+Author: SubhajitSingha0312 <subhajitsingharajput06@gmail.com>
+Date:   Thu Jun 25 15:21:23 2026 +0530
+
+    Add Subha
+
+[33mcommit 30a62beb6fa33c5050e3b1e933d17df563303b51[m
+Merge: f98a30e 6c4d085
+Author: SubhajitSingha0312 <subhajitsingharajput06@gmail.com>
+Date:   Thu Jun 25 15:14:39 2026 +0530
+
+    Merge pull request #1 from SubhajitSingha0312/feature1
+    
+    let's do it agian
+
+[33mcommit 6c4d0854e06909934fce0c1c333eb57026b70b94[m[33m ([m[1;31morigin/feature1[m[33m)[m
+Author: SubhajitSingha0312 <subhajitsingharajput06@gmail.com>
+Date:   Thu Jun 25 15:03:13 2026 +0530
+
+    let's do it agian
+
+[33mcommit f98a30e03d87a260fede9fefc9ea778bbf1e91a2[m
+Author: SubhajitSingha0312 <subhajitsingharajput06@gmail.com>
+Date:   Thu Jun 25 14:33:52 2026 +0530
+
+    Final update after merge
+
+[33mcommit 397a339c5d4d25ef9f514d942533295412bd4e0e[m
+Merge: 91a3cc4 603be62
+Author: SubhajitSingha0312 <subhajitsingharajput06@gmail.com>
+Date:   Thu Jun 25 14:26:21 2026 +0530
+
+    Resolved merge conflict in index1.html
+
+[33mcommit 603be62d493d5b75a3004bbc9bc80f50719f8eb5[m
+Author: SubhajitSingha0312 <subhajitsingharajput06@gmail.com>
+Date:   Mon Jun 22 21:30:00 2026 +0530
+
+    new update
+
+[33mcommit 91a3cc49869fffb8a64a03b956614b7e806a573c[m[33m ([m[1;31morigin/feature2[m[33m)[m
+Author: SubhajitSingha0312 <subhajitsingharajput06@gmail.com>
+Date:   Mon Jun 22 21:23:10 2026 +0530
+
+    add new feture
+
+[33mcommit ef9bd590a355310e2a647757f2a03f4037fb74d0[m
+Author: SubhajitSingha0312 <subhajitsingharajput06@gmail.com>
+Date:   Mon Jun 22 21:17:14 2026 +0530
+
+    add new feture
+
+[33mcommit 9dcff739429ecaecbb85b55d829308a93197d170[m
+Author: SubhajitSingha0312 <subhajitsingharajput06@gmail.com>
+Date:   Mon Jun 22 21:07:27 2026 +0530
+
+    Add new branch
+
+[33mcommit 6262f452393dd6a3dcbc417afd9133b09a0214b4[m
+Author: SubhajitSingha0312 <subhajitsingharajput06@gmail.com>
+Date:   Mon Jun 22 17:38:34 2026 +0530
+
+    Fixed readme
+
+[33mcommit da3ff2dd1a28fdbca459a1deb4237239a32c76a6[m
+Author: SubhajitSingha0312 <subhajitsingharajput06@gmail.com>
+Date:   Mon Jun 22 17:36:51 2026 +0530
+
+    add README
+
+[33mcommit f1cbc7e66ef95c362ef6f541300cddf7414a2724[m
+Author: SubhajitSingha0312 <subhajitsingharajput06@gmail.com>
+Date:   Mon Jun 22 17:21:05 2026 +0530
+
+    Add Intial Files
